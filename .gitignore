@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+
+chroma/
+data/
+
+models/outcome_model/
+
+.ipynb_checkpoints/
+.vscode/
