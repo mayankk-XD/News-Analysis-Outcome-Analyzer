@@ -1,0 +1,8 @@
+chromadb==1.5.9
+feedparser==6.0.12
+protobuf==7.34.1
+sentence_transformers==5.4.1
+spacy==3.8.14
+streamlit==1.52.1
+torch==2.9.1+cu130
+transformers==4.41.2
